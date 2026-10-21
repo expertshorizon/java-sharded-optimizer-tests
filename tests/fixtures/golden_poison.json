@@ -1,0 +1,1 @@
+{"final_state":{"shards":[{"shard_id":0,"params":["0/1","0/1"],"momentum":["0/1","0/1"]}]},"trace":[{"step":0,"status":"poisoned_skip","workers":[0,1,2],"l1_norm":null,"clip_scale":null,"rejections":[]}],"uncommitted_pending":{},"rejections":[]}

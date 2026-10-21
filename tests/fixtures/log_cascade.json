@@ -1,0 +1,16 @@
+[
+ {"type":"submit","worker_id":0,"step":1,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":1,"step":0,"poisoned":false,"gradient":["2","2","2","2"]},
+ {"type":"submit","worker_id":2,"step":0,"poisoned":false,"gradient":["0","0","10","10"]},
+ {"type":"submit","worker_id":1,"step":1,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":0,"step":2,"poisoned":false,"gradient":["9","9","9","9"]},
+ {"type":"submit","worker_id":1,"step":2,"poisoned":true},
+ {"type":"submit","worker_id":2,"step":6,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":2,"step":1,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":0,"step":4,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":1,"step":4,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":2,"step":4,"poisoned":false,"gradient":["1","1","1","1"]},
+ {"type":"submit","worker_id":0,"step":3,"poisoned":false,"gradient":["5","5","5","5"]},
+ {"type":"submit","worker_id":0,"step":3,"poisoned":false,"gradient":["6","6","6","6"]},
+ {"type":"submit","worker_id":1,"step":3,"poisoned":false,"gradient":["5","5","5","5"]}
+]

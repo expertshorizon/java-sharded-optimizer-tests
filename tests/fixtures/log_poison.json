@@ -1,0 +1,5 @@
+[
+ {"type":"submit","worker_id":0,"step":0,"poisoned":false,"gradient":["4","4"]},
+ {"type":"submit","worker_id":1,"step":0,"poisoned":true},
+ {"type":"submit","worker_id":2,"step":0,"poisoned":false,"gradient":["6","6"]}
+]

@@ -1,0 +1,1 @@
+{"num_workers":4,"param_size":6,"num_shards":3,"quorum_size":3,"max_staleness":3,"clip_threshold":"5","learning_rate":"0.05","momentum_beta":"0.3"}

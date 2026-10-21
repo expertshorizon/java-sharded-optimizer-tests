@@ -1,0 +1,1 @@
+{"final_state":{"shards":[{"shard_id":0,"params":["-1/5","-1/5"],"momentum":["2/1","2/1"]},{"shard_id":1,"params":["-1/5","-1/5"],"momentum":["2/1","2/1"]}]},"trace":[{"step":0,"status":"committed","workers":[0],"l1_norm":"12/1","clip_scale":"2/3","rejections":[]}],"uncommitted_pending":{},"rejections":[]}

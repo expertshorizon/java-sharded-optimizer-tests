@@ -1,0 +1,1 @@
+{"final_state":{"shards":[{"shard_id":0,"params":["0/1"],"momentum":["0/1"]}]},"trace":[],"uncommitted_pending":{"3":[0]},"rejections":[{"worker_id":1,"step":4,"reason":"stale"}]}
